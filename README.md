@@ -9,7 +9,20 @@ The model was calibrated to empirical collected by Teresa Blader in roadsides in
 Monarchs - Teresa's Data.mxd is ArcMap project that shows the shapefiles involved. 
 
 TeresaTestData.shp and associated files are the shapefile used in the agent-based model with pre-calibration probEggs. 
+
 TeresaTestData2.shp and associated files are the shapefile used in the agent-based model with post-calibration probEggs. 
 
+CumEggsPerZone.2017.Oct.06.12_14_34.txt is the cumulative eggs per zone output pre-calibration.
 
+CumEggsPerZone.2017.Oct.06.17_47_47.txt is the cumulative eggs per zone output post-calibration. 
+
+
+
+TeresaData.R
+
+scen2woBuffs_export.dbf
+
+TeresaPolys.dbf
+
+Teresa_data.xlsx has some calculations and the figure for the paper. 
 
